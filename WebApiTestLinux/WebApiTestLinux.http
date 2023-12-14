@@ -1,0 +1,6 @@
+@WebApiTestLinux_HostAddress = http://localhost:5049
+
+GET {{WebApiTestLinux_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
